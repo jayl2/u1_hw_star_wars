@@ -1,0 +1,195 @@
+531  homework
+  532  git clone https://github.com/SEI-R-6-21/u1_hw_star_wars.git
+  533  pwd
+  534  git clone https://github.com/jayl2/u1_hw_star_wars.git
+  535  ls
+  536  cd u1_hw_star_wars
+  537  code .
+  538  pwd
+  539  ls
+  540  cd act1.sh
+  541  mkdir star_wars
+  542  ls
+  543  pwd
+  544  mkdir 'star_wars'
+  545  star_wars
+  546  pwd
+  547  mkdir empire rebellion
+  548  pwd
+  549  cd empire/darth_vader.txt
+  550  mkdir empire/darth_vader.txt
+  551  pwd
+  552  touch empire/darth_cader.txt
+  553  rm -r empire/darth_cader.txt
+  554  touch empire/darth_vader.txt
+  555  echo "...heavy breathing..." >> darth_vader.txt
+  556  pwd
+  557  ls
+  558  empire
+  559  pwd
+  560  touch emperor_palpatine.txt
+  561  mkdir death_star
+  562  mv darth_vader death_star
+  563  mv darth_vader.txt death_star
+  564  clear
+  565  pwd
+  566  cd..
+  567  cd ..
+  568  pwd
+  569  cd ..
+  570  pwd
+  571  ls
+  572  sta
+  573  star_wars
+  574  ls
+  575  pwd
+  576  rebellion
+  577  pwd
+  578  clear
+  579  touch princess_leila.txt && echo "Help me, Obi-Wan..." >> princess_leila.txt
+  580  clear
+  581  pwd
+  582  touch obi_wan.txt
+  583  touch luke_skywalker.txt
+  584  pwd
+  585  mkdir millenium_falcon
+  586  touch han_solo.txt chewbacca.txt
+  587  mv luke_skywalker.txt obi_wan.txt princess_leila.txt millenium_falcon
+  588  pwd
+  589  mv rebellion/millenium_falcon empire/death_start
+  590  pwd
+  591  cd ..
+  592  pwd
+  593  mv rebellion/millenium_falcon empire/death_start
+  594  git add act1.sh
+  595  git add.
+  596  pwd
+  597  cd
+  598  pwd
+  599  ls
+  600  des
+  601  desktop
+  602  ls
+  603  GAA
+  604  ls
+  605  unit1
+  606  ls
+  607  homework
+  608  ls
+  609  git add.
+  610  git add .
+  611  ls
+  612  u1_hw_star_wars
+  613  git add .
+  614  git commit -m"commiting act2"
+  615  git status
+  616  ms empire/death_star/mellenium_falcon rebellion
+  617  mv empire/death_star/mellenium_falcon rebellion
+  618  pwd
+  619  ls
+  620  star_wars
+  621  rebellion
+  622  ls
+  623  mkdir millenium_falcon
+  624  ls
+  625  pwd
+  626  ls
+  627  mv chewbacca.txt han_solo.txt millenium_falcon
+  628  clear
+  629  pwd
+  630  cd ..
+  631  pwd
+  632  ls
+  633  rm -rf star_wars
+  634  ls
+  635  mkdir star_wars
+  636  ls
+  637  mkdir star_wars/empire rebellion
+  638  rm -rf rebellion
+  639  mkdir star_wars/rebellion
+  640  cd empi
+  641  cd emp
+  642  cd empire
+  643  pwd
+  644  ls
+  645  star_wars
+  646  ls
+  647  empire
+  648  ls
+  649  pwd
+  650  touch darth_vader.txt
+  651  pwd
+  652  ls
+  653  echo "...heavy breathing..." >> darth_vader.txt
+  654  pwd
+  655  touch emperor_palpatine.txt
+  656  mkdir death_star
+  657  mv darth_vader.txt death_star
+  658  pwd
+  659  cd ..
+  660  pwd
+  661  ls
+  662  rebellion
+  663  ls
+  664  touch princess_leila.txt && echo "Help me, Obi-Wan..." >> princess_leila.txt
+  665  pwd
+  666  touch obi_wan.txt
+  667  touch luke_skywalker.txt
+  668  mkdir mellenium_falcon
+  669  mv luke_skywalker.txt obi_wan.txt princess_leila.txt millenium_falcon
+  670  pwd
+  671  cd ..
+  672  pwd
+  673  mv rebellion/millenium_falcon empire/death_star
+  674  pwd
+  675  empire/death_star/mellenium_falcon rebellion
+  676  empire/death_star/millenium_falcon rebellion
+  677  pw
+  678  pwd
+  679  ls
+  680  tree
+  681  mv empire/death_star/millenium_falcon/* death_star
+  682  mv empire/death_star/millenium_falcon/* empire/death_star
+  683  pwd
+  684  ls
+  685  empire
+  686  ls
+  687  death_star
+  688  ls
+  689  rm -rf obi_wan.txt
+  690  pwd
+  691  ls
+  692  mv luke_skywalker.txt princess_leila.txt millenium_falcon
+  693  pwd
+  694  cd ..
+  695  pwd
+  696  cd ..
+  697  pwd
+  698  ls
+  699  mv empire/death_star/millenium_falcon rebellion
+  700  pwd
+  701  mv empire/death_star/darth_vader.txt empire
+  702  ls
+  703  empire
+  704  ls
+  705  cd..
+  706  cd ..
+  707  pwd
+  708  ls
+  709  rm -rf empire/death_star
+  710  pwd
+  711  empire
+  712  ls
+  713  cd ..
+  714  ls
+  715  rebellion
+  716  ls
+  717  millenium_falcon
+  718  ls
+  719  touch chewbacca.txt
+  720  touch han_solo.txt
+  721  history
+  722  history | tail -n 300
+  723  clear
+  724  history | tail -n 250
+  725  clear
